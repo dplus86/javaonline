@@ -1,0 +1,13 @@
+package Lesson_02;
+
+public class SecondClas {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
