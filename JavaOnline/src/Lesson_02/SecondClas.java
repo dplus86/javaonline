@@ -9,6 +9,9 @@ public class SecondClas {
 		// TODO Auto-generated method stub
 		System.out.println("This is syn");
 		System.out.println("This add in fujitsu");
+		
+		
+		///////////////////
 	}
 
 }
